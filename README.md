@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Nurfa Hadirah binti Tabri.
+I'm currently a final year Software Engineering student at Universiti Teknologi Malaysia, Skudai, Johor.
+
 <!--
 **nfhadirah/nfhadirah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
